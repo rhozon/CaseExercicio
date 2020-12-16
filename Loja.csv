@@ -1,0 +1,390 @@
+id_loja ;nome_loja ;regiao;formato
+loja1;loja1;Todo o Brasil;Sam´s
+loja2;loja2;Grande Rio de Janeiro;Big
+loja3;loja3;Grande São Paulo;Maxxi
+loja4;loja4;Interior de São Paulo;Big BomPreço
+loja5;loja5;Sul;Super BomPreço
+loja6;loja6;Todo o Brasil;Nacional
+loja7;loja7;Grande Rio de Janeiro;TodoDia
+loja8;loja8;Todo o Brasil;Sam´s
+loja9;loja9;Grande Rio de Janeiro;Big
+loja10;loja10;Grande São Paulo;Maxxi
+loja11;loja11;Interior de São Paulo;Big BomPreço
+loja12;loja12;Sul;Super BomPreço
+loja13;loja13;Todo o Brasil;Nacional
+loja14;loja14;Grande Rio de Janeiro;TodoDia
+loja15;loja15;Todo o Brasil;Sam´s
+loja16;loja16;Grande Rio de Janeiro;Big
+loja17;loja17;Grande São Paulo;Maxxi
+loja18;loja18;Interior de São Paulo;Big BomPreço
+loja19;loja19;Sul;Super BomPreço
+loja20;loja20;Todo o Brasil;Nacional
+loja21;loja21;Grande Rio de Janeiro;TodoDia
+loja22;loja22;Todo o Brasil;Sam´s
+loja23;loja23;Grande Rio de Janeiro;Big
+loja24;loja24;Grande São Paulo;Maxxi
+loja25;loja25;Interior de São Paulo;Big BomPreço
+loja26;loja26;Sul;Super BomPreço
+loja27;loja27;Todo o Brasil;Nacional
+loja28;loja28;Grande Rio de Janeiro;TodoDia
+loja29;loja29;Todo o Brasil;Sam´s
+loja30;loja30;Grande Rio de Janeiro;Big
+loja31;loja31;Grande São Paulo;Maxxi
+loja32;loja32;Interior de São Paulo;Big BomPreço
+loja33;loja33;Sul;Super BomPreço
+loja34;loja34;Todo o Brasil;Nacional
+loja35;loja35;Grande Rio de Janeiro;TodoDia
+loja36;loja36;Todo o Brasil;Sam´s
+loja37;loja37;Grande Rio de Janeiro;Big
+loja38;loja38;Grande São Paulo;Maxxi
+loja39;loja39;Interior de São Paulo;Big BomPreço
+loja40;loja40;Sul;Super BomPreço
+loja41;loja41;Todo o Brasil;Nacional
+loja42;loja42;Grande Rio de Janeiro;TodoDia
+loja43;loja43;Todo o Brasil;Sam´s
+loja44;loja44;Grande Rio de Janeiro;Big
+loja45;loja45;Grande São Paulo;Maxxi
+loja46;loja46;Interior de São Paulo;Big BomPreço
+loja47;loja47;Sul;Super BomPreço
+loja48;loja48;Todo o Brasil;Nacional
+loja49;loja49;Grande Rio de Janeiro;TodoDia
+loja50;loja50;Todo o Brasil;Sam´s
+loja51;loja51;Grande Rio de Janeiro;Big
+loja52;loja52;Grande São Paulo;Maxxi
+loja53;loja53;Interior de São Paulo;Big BomPreço
+loja54;loja54;Sul;Super BomPreço
+loja55;loja55;Todo o Brasil;Nacional
+loja56;loja56;Grande Rio de Janeiro;TodoDia
+loja57;loja57;Todo o Brasil;Sam´s
+loja58;loja58;Grande Rio de Janeiro;Big
+loja59;loja59;Grande São Paulo;Maxxi
+loja60;loja60;Interior de São Paulo;Big BomPreço
+loja61;loja61;Sul;Super BomPreço
+loja62;loja62;Todo o Brasil;Nacional
+loja63;loja63;Grande Rio de Janeiro;TodoDia
+loja64;loja64;Todo o Brasil;Sam´s
+loja65;loja65;Grande Rio de Janeiro;Big
+loja66;loja66;Grande São Paulo;Maxxi
+loja67;loja67;Interior de São Paulo;Big BomPreço
+loja68;loja68;Sul;Super BomPreço
+loja69;loja69;Todo o Brasil;Nacional
+loja70;loja70;Grande Rio de Janeiro;TodoDia
+loja71;loja71;Todo o Brasil;Sam´s
+loja72;loja72;Grande Rio de Janeiro;Big
+loja73;loja73;Grande São Paulo;Maxxi
+loja74;loja74;Interior de São Paulo;Big BomPreço
+loja75;loja75;Sul;Super BomPreço
+loja76;loja76;Todo o Brasil;Nacional
+loja77;loja77;Grande Rio de Janeiro;TodoDia
+loja78;loja78;Todo o Brasil;Sam´s
+loja79;loja79;Grande Rio de Janeiro;Big
+loja80;loja80;Grande São Paulo;Maxxi
+loja81;loja81;Interior de São Paulo;Big BomPreço
+loja82;loja82;Sul;Super BomPreço
+loja83;loja83;Todo o Brasil;Nacional
+loja84;loja84;Grande Rio de Janeiro;TodoDia
+loja85;loja85;Todo o Brasil;Sam´s
+loja86;loja86;Grande Rio de Janeiro;Big
+loja87;loja87;Grande São Paulo;Maxxi
+loja88;loja88;Interior de São Paulo;Big BomPreço
+loja89;loja89;Sul;Super BomPreço
+loja90;loja90;Todo o Brasil;Nacional
+loja91;loja91;Grande Rio de Janeiro;TodoDia
+loja92;loja92;Todo o Brasil;Sam´s
+loja93;loja93;Grande Rio de Janeiro;Big
+loja94;loja94;Grande São Paulo;Maxxi
+loja95;loja95;Interior de São Paulo;Big BomPreço
+loja96;loja96;Sul;Super BomPreço
+loja97;loja97;Todo o Brasil;Nacional
+loja98;loja98;Grande Rio de Janeiro;TodoDia
+loja99;loja99;Todo o Brasil;Sam´s
+loja100;loja100;Grande Rio de Janeiro;Big
+loja101;loja101;Grande São Paulo;Maxxi
+loja102;loja102;Interior de São Paulo;Big BomPreço
+loja103;loja103;Sul;Super BomPreço
+loja104;loja104;Todo o Brasil;Nacional
+loja105;loja105;Grande Rio de Janeiro;TodoDia
+loja106;loja106;Todo o Brasil;Sam´s
+loja107;loja107;Grande Rio de Janeiro;Big
+loja108;loja108;Grande São Paulo;Maxxi
+loja109;loja109;Interior de São Paulo;Big BomPreço
+loja110;loja110;Sul;Super BomPreço
+loja111;loja111;Todo o Brasil;Nacional
+loja112;loja112;Grande Rio de Janeiro;TodoDia
+loja113;loja113;Todo o Brasil;Sam´s
+loja114;loja114;Grande Rio de Janeiro;Big
+loja115;loja115;Grande São Paulo;Maxxi
+loja116;loja116;Interior de São Paulo;Big BomPreço
+loja117;loja117;Sul;Super BomPreço
+loja118;loja118;Todo o Brasil;Nacional
+loja119;loja119;Grande Rio de Janeiro;TodoDia
+loja120;loja120;Todo o Brasil;Sam´s
+loja121;loja121;Grande Rio de Janeiro;Big
+loja122;loja122;Grande São Paulo;Maxxi
+loja123;loja123;Interior de São Paulo;Big BomPreço
+loja124;loja124;Sul;Super BomPreço
+loja125;loja125;Todo o Brasil;Nacional
+loja126;loja126;Grande Rio de Janeiro;TodoDia
+loja127;loja127;Todo o Brasil;Sam´s
+loja128;loja128;Grande Rio de Janeiro;Big
+loja129;loja129;Grande São Paulo;Maxxi
+loja130;loja130;Interior de São Paulo;Big BomPreço
+loja131;loja131;Sul;Super BomPreço
+loja132;loja132;Todo o Brasil;Nacional
+loja133;loja133;Grande Rio de Janeiro;TodoDia
+loja134;loja134;Todo o Brasil;Sam´s
+loja135;loja135;Grande Rio de Janeiro;Big
+loja136;loja136;Grande São Paulo;Maxxi
+loja137;loja137;Interior de São Paulo;Big BomPreço
+loja138;loja138;Sul;Super BomPreço
+loja139;loja139;Todo o Brasil;Nacional
+loja140;loja140;Grande Rio de Janeiro;TodoDia
+loja141;loja141;Todo o Brasil;Sam´s
+loja142;loja142;Grande Rio de Janeiro;Big
+loja143;loja143;Grande São Paulo;Maxxi
+loja144;loja144;Interior de São Paulo;Big BomPreço
+loja145;loja145;Sul;Super BomPreço
+loja146;loja146;Todo o Brasil;Nacional
+loja147;loja147;Grande Rio de Janeiro;TodoDia
+loja148;loja148;Todo o Brasil;Sam´s
+loja149;loja149;Grande Rio de Janeiro;Big
+loja150;loja150;Grande São Paulo;Maxxi
+loja151;loja151;Interior de São Paulo;Big BomPreço
+loja152;loja152;Sul;Super BomPreço
+loja153;loja153;Todo o Brasil;Nacional
+loja154;loja154;Grande Rio de Janeiro;TodoDia
+loja155;loja155;Todo o Brasil;Sam´s
+loja156;loja156;Grande Rio de Janeiro;Big
+loja157;loja157;Grande São Paulo;Maxxi
+loja158;loja158;Interior de São Paulo;Big BomPreço
+loja159;loja159;Sul;Super BomPreço
+loja160;loja160;Todo o Brasil;Nacional
+loja161;loja161;Grande Rio de Janeiro;TodoDia
+loja162;loja162;Todo o Brasil;Sam´s
+loja163;loja163;Grande Rio de Janeiro;Big
+loja164;loja164;Grande São Paulo;Maxxi
+loja165;loja165;Interior de São Paulo;Big BomPreço
+loja166;loja166;Sul;Super BomPreço
+loja167;loja167;Todo o Brasil;Nacional
+loja168;loja168;Grande Rio de Janeiro;TodoDia
+loja169;loja169;Todo o Brasil;Sam´s
+loja170;loja170;Grande Rio de Janeiro;Big
+loja171;loja171;Grande São Paulo;Maxxi
+loja172;loja172;Interior de São Paulo;Big BomPreço
+loja173;loja173;Sul;Super BomPreço
+loja174;loja174;Todo o Brasil;Nacional
+loja175;loja175;Grande Rio de Janeiro;TodoDia
+loja176;loja176;Todo o Brasil;Sam´s
+loja177;loja177;Grande Rio de Janeiro;Big
+loja178;loja178;Grande São Paulo;Maxxi
+loja179;loja179;Interior de São Paulo;Big BomPreço
+loja180;loja180;Sul;Super BomPreço
+loja181;loja181;Todo o Brasil;Nacional
+loja182;loja182;Grande Rio de Janeiro;TodoDia
+loja183;loja183;Todo o Brasil;Sam´s
+loja184;loja184;Grande Rio de Janeiro;Big
+loja185;loja185;Grande São Paulo;Maxxi
+loja186;loja186;Interior de São Paulo;Big BomPreço
+loja187;loja187;Sul;Super BomPreço
+loja188;loja188;Todo o Brasil;Nacional
+loja189;loja189;Grande Rio de Janeiro;TodoDia
+loja190;loja190;Todo o Brasil;Sam´s
+loja191;loja191;Grande Rio de Janeiro;Big
+loja192;loja192;Grande São Paulo;Maxxi
+loja193;loja193;Interior de São Paulo;Big BomPreço
+loja194;loja194;Sul;Super BomPreço
+loja195;loja195;Todo o Brasil;Nacional
+loja196;loja196;Grande Rio de Janeiro;TodoDia
+loja197;loja197;Todo o Brasil;Sam´s
+loja198;loja198;Grande Rio de Janeiro;Big
+loja199;loja199;Grande São Paulo;Maxxi
+loja200;loja200;Interior de São Paulo;Big BomPreço
+loja201;loja201;Sul;Super BomPreço
+loja202;loja202;Todo o Brasil;Nacional
+loja203;loja203;Grande Rio de Janeiro;TodoDia
+loja204;loja204;Todo o Brasil;Sam´s
+loja205;loja205;Grande Rio de Janeiro;Big
+loja206;loja206;Grande São Paulo;Maxxi
+loja207;loja207;Interior de São Paulo;Big BomPreço
+loja208;loja208;Sul;Super BomPreço
+loja209;loja209;Todo o Brasil;Nacional
+loja210;loja210;Grande Rio de Janeiro;TodoDia
+loja211;loja211;Todo o Brasil;Sam´s
+loja212;loja212;Grande Rio de Janeiro;Big
+loja213;loja213;Grande São Paulo;Maxxi
+loja214;loja214;Interior de São Paulo;Big BomPreço
+loja215;loja215;Sul;Super BomPreço
+loja216;loja216;Todo o Brasil;Nacional
+loja217;loja217;Grande Rio de Janeiro;TodoDia
+loja218;loja218;Todo o Brasil;Sam´s
+loja219;loja219;Grande Rio de Janeiro;Big
+loja220;loja220;Grande São Paulo;Maxxi
+loja221;loja221;Interior de São Paulo;Big BomPreço
+loja222;loja222;Sul;Super BomPreço
+loja223;loja223;Todo o Brasil;Nacional
+loja224;loja224;Grande Rio de Janeiro;TodoDia
+loja225;loja225;Todo o Brasil;Sam´s
+loja226;loja226;Grande Rio de Janeiro;Big
+loja227;loja227;Grande São Paulo;Maxxi
+loja228;loja228;Interior de São Paulo;Big BomPreço
+loja229;loja229;Sul;Super BomPreço
+loja230;loja230;Todo o Brasil;Nacional
+loja231;loja231;Grande Rio de Janeiro;TodoDia
+loja232;loja232;Todo o Brasil;Sam´s
+loja233;loja233;Grande Rio de Janeiro;Big
+loja234;loja234;Grande São Paulo;Maxxi
+loja235;loja235;Interior de São Paulo;Big BomPreço
+loja236;loja236;Sul;Super BomPreço
+loja237;loja237;Todo o Brasil;Nacional
+loja238;loja238;Grande Rio de Janeiro;TodoDia
+loja239;loja239;Todo o Brasil;Sam´s
+loja240;loja240;Grande Rio de Janeiro;Big
+loja241;loja241;Grande São Paulo;Maxxi
+loja242;loja242;Interior de São Paulo;Big BomPreço
+loja243;loja243;Sul;Super BomPreço
+loja244;loja244;Todo o Brasil;Nacional
+loja245;loja245;Grande Rio de Janeiro;TodoDia
+loja246;loja246;Todo o Brasil;Sam´s
+loja247;loja247;Grande Rio de Janeiro;Big
+loja248;loja248;Grande São Paulo;Maxxi
+loja249;loja249;Interior de São Paulo;Big BomPreço
+loja250;loja250;Sul;Super BomPreço
+loja251;loja251;Todo o Brasil;Nacional
+loja252;loja252;Grande Rio de Janeiro;TodoDia
+loja253;loja253;Todo o Brasil;Sam´s
+loja254;loja254;Grande Rio de Janeiro;Big
+loja255;loja255;Grande São Paulo;Maxxi
+loja256;loja256;Interior de São Paulo;Big BomPreço
+loja257;loja257;Sul;Super BomPreço
+loja258;loja258;Todo o Brasil;Nacional
+loja259;loja259;Grande Rio de Janeiro;TodoDia
+loja260;loja260;Todo o Brasil;Sam´s
+loja261;loja261;Grande Rio de Janeiro;Big
+loja262;loja262;Grande São Paulo;Maxxi
+loja263;loja263;Interior de São Paulo;Big BomPreço
+loja264;loja264;Sul;Super BomPreço
+loja265;loja265;Todo o Brasil;Nacional
+loja266;loja266;Grande Rio de Janeiro;TodoDia
+loja267;loja267;Todo o Brasil;Sam´s
+loja268;loja268;Grande Rio de Janeiro;Big
+loja269;loja269;Grande São Paulo;Maxxi
+loja270;loja270;Interior de São Paulo;Big BomPreço
+loja271;loja271;Sul;Super BomPreço
+loja272;loja272;Todo o Brasil;Nacional
+loja273;loja273;Grande Rio de Janeiro;TodoDia
+loja274;loja274;Todo o Brasil;Sam´s
+loja275;loja275;Grande Rio de Janeiro;Big
+loja276;loja276;Grande São Paulo;Maxxi
+loja277;loja277;Interior de São Paulo;Big BomPreço
+loja278;loja278;Sul;Super BomPreço
+loja279;loja279;Todo o Brasil;Nacional
+loja280;loja280;Grande Rio de Janeiro;TodoDia
+loja281;loja281;Todo o Brasil;Sam´s
+loja282;loja282;Grande Rio de Janeiro;Big
+loja283;loja283;Grande São Paulo;Maxxi
+loja284;loja284;Interior de São Paulo;Big BomPreço
+loja285;loja285;Sul;Super BomPreço
+loja286;loja286;Todo o Brasil;Nacional
+loja287;loja287;Grande Rio de Janeiro;TodoDia
+loja288;loja288;Todo o Brasil;Sam´s
+loja289;loja289;Grande Rio de Janeiro;Big
+loja290;loja290;Grande São Paulo;Maxxi
+loja291;loja291;Interior de São Paulo;Big BomPreço
+loja292;loja292;Sul;Super BomPreço
+loja293;loja293;Todo o Brasil;Nacional
+loja294;loja294;Grande Rio de Janeiro;TodoDia
+loja295;loja295;Todo o Brasil;Sam´s
+loja296;loja296;Grande Rio de Janeiro;Big
+loja297;loja297;Grande São Paulo;Maxxi
+loja298;loja298;Interior de São Paulo;Big BomPreço
+loja299;loja299;Sul;Super BomPreço
+loja300;loja300;Todo o Brasil;Nacional
+loja301;loja301;Grande Rio de Janeiro;TodoDia
+loja302;loja302;Todo o Brasil;Sam´s
+loja303;loja303;Grande Rio de Janeiro;Big
+loja304;loja304;Grande São Paulo;Maxxi
+loja305;loja305;Interior de São Paulo;Big BomPreço
+loja306;loja306;Sul;Super BomPreço
+loja307;loja307;Todo o Brasil;Nacional
+loja308;loja308;Grande Rio de Janeiro;TodoDia
+loja309;loja309;Todo o Brasil;Sam´s
+loja310;loja310;Grande Rio de Janeiro;Big
+loja311;loja311;Grande São Paulo;Maxxi
+loja312;loja312;Interior de São Paulo;Big BomPreço
+loja313;loja313;Sul;Super BomPreço
+loja314;loja314;Todo o Brasil;Nacional
+loja315;loja315;Grande Rio de Janeiro;TodoDia
+loja316;loja316;Todo o Brasil;Sam´s
+loja317;loja317;Grande Rio de Janeiro;Big
+loja318;loja318;Grande São Paulo;Maxxi
+loja319;loja319;Interior de São Paulo;Big BomPreço
+loja320;loja320;Sul;Super BomPreço
+loja321;loja321;Todo o Brasil;Nacional
+loja322;loja322;Grande Rio de Janeiro;TodoDia
+loja323;loja323;Todo o Brasil;Sam´s
+loja324;loja324;Grande Rio de Janeiro;Big
+loja325;loja325;Grande São Paulo;Maxxi
+loja326;loja326;Interior de São Paulo;Big BomPreço
+loja327;loja327;Sul;Super BomPreço
+loja328;loja328;Todo o Brasil;Nacional
+loja329;loja329;Grande Rio de Janeiro;TodoDia
+loja330;loja330;Todo o Brasil;Sam´s
+loja331;loja331;Grande Rio de Janeiro;Big
+loja332;loja332;Grande São Paulo;Maxxi
+loja333;loja333;Interior de São Paulo;Big BomPreço
+loja334;loja334;Sul;Super BomPreço
+loja335;loja335;Todo o Brasil;Nacional
+loja336;loja336;Grande Rio de Janeiro;TodoDia
+loja337;loja337;Todo o Brasil;Sam´s
+loja338;loja338;Grande Rio de Janeiro;Big
+loja339;loja339;Grande São Paulo;Maxxi
+loja340;loja340;Interior de São Paulo;Big BomPreço
+loja341;loja341;Sul;Super BomPreço
+loja342;loja342;Todo o Brasil;Nacional
+loja343;loja343;Grande Rio de Janeiro;TodoDia
+loja344;loja344;Todo o Brasil;Sam´s
+loja345;loja345;Grande Rio de Janeiro;Big
+loja346;loja346;Grande São Paulo;Maxxi
+loja347;loja347;Interior de São Paulo;Big BomPreço
+loja348;loja348;Sul;Super BomPreço
+loja349;loja349;Todo o Brasil;Nacional
+loja350;loja350;Grande Rio de Janeiro;TodoDia
+loja351;loja351;Todo o Brasil;Sam´s
+loja352;loja352;Grande Rio de Janeiro;Big
+loja353;loja353;Grande São Paulo;Maxxi
+loja354;loja354;Interior de São Paulo;Big BomPreço
+loja355;loja355;Sul;Super BomPreço
+loja356;loja356;Todo o Brasil;Nacional
+loja357;loja357;Grande Rio de Janeiro;TodoDia
+loja358;loja358;Todo o Brasil;Sam´s
+loja359;loja359;Grande Rio de Janeiro;Big
+loja360;loja360;Grande São Paulo;Maxxi
+loja361;loja361;Interior de São Paulo;Big BomPreço
+loja362;loja362;Sul;Super BomPreço
+loja363;loja363;Todo o Brasil;Nacional
+loja364;loja364;Grande Rio de Janeiro;TodoDia
+loja365;loja365;Todo o Brasil;Sam´s
+loja366;loja366;Grande Rio de Janeiro;Big
+loja367;loja367;Grande São Paulo;Maxxi
+loja368;loja368;Interior de São Paulo;Big BomPreço
+loja369;loja369;Sul;Super BomPreço
+loja370;loja370;Todo o Brasil;Nacional
+loja371;loja371;Grande Rio de Janeiro;TodoDia
+loja372;loja372;Todo o Brasil;Sam´s
+loja373;loja373;Grande Rio de Janeiro;Big
+loja374;loja374;Grande São Paulo;Maxxi
+loja375;loja375;Interior de São Paulo;Big BomPreço
+loja376;loja376;Sul;Super BomPreço
+loja377;loja377;Todo o Brasil;Nacional
+loja378;loja378;Grande Rio de Janeiro;TodoDia
+loja379;loja379;Todo o Brasil;Sam´s
+loja380;loja380;Grande Rio de Janeiro;Big
+loja381;loja381;Grande São Paulo;Maxxi
+loja382;loja382;Interior de São Paulo;Big BomPreço
+loja383;loja383;Sul;Super BomPreço
+loja384;loja384;Todo o Brasil;Nacional
+loja385;loja385;Grande Rio de Janeiro;TodoDia
+loja386;loja386;Todo o Brasil;Sam´s
+loja387;loja387;Grande Rio de Janeiro;Big
+loja388;loja388;Grande São Paulo;Maxxi
+loja389;loja389;Interior de São Paulo;Big BomPreço
