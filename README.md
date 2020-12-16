@@ -1,0 +1,2 @@
+# CaseExercicio
+Exemplo fictício
