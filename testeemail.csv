@@ -1,6 +1,6 @@
-variavel;Nome;e.mail
-0.610711545;Rodrigo;rodrigoozon@yahoo.com.br
-0.207757757;Rodrigo;rhozon@gmail.com
-0.96799212;Rodrigo Ozon;rodrigoozon@yahoo.com.br
-0.393813231;RHO;rhozon@gmail.com
-0.4;Teste disparo;testedisparo@yahoo.com
+e.mail;nome;sobrenome;nome_produto;regiao;formato;idade;data_cadastro
+rodrigoozon@yahoo.com.br;Rodrigo;;produto id4901.30;Todo o Brasil;Maxxi;37;16/12/2020
+rhozon@gmail.com;Rodrigo;H. Ozon;bananas;Todo o Brasil;Sam´s;37;17/12/2020
+rodrigoozon@yahoo.com.br;Rodrigo Ozon;Ozon;maçãs;Todo o Brasil;Big Bom Preço;37;01/01/2019
+rhozon@gmail.com;RHO;;produto id5000.30;Todo o Brasil;TodoDia;37;25/06/2018
+testedisparo@yahoo.com;Teste disparo;disparo;abobrinhas;Todo o Brasil;Maxxi;19;14/02/2019
